@@ -11,8 +11,8 @@
 
     <properties>
         <java.version>21</java.version>
-        <sonar.projectKey>piomin_sample-spring-kafka-microservices</sonar.projectKey>
-        <sonar.organization>piomin</sonar.organization>
+        <sonar.projectKey>kumarranganath2218_sample-spring-kafka-microservices</sonar.projectKey>
+        <sonar.organization>kumarranganath2218</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
